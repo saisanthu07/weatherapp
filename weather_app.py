@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Replace this with your actual OpenWeatherMap API key
-API_KEY = "279e0e56d484f618d6a39de15104dd1b"
+API_KEY = "your_API_KEY"
 
 def get_weather():
     city = city_entry.get()
